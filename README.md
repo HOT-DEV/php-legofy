@@ -9,6 +9,7 @@
 PHP Legofy is a PHP package that takes a static image and makes it so that it looks as if it was built out of LEGO.  
 It was inspired by the original Legofy made in Python https://github.com/JuanPotato/Legofy
 
+
 Basically it transforms this:
 ![Image of a beer][beer]
 Into this:
